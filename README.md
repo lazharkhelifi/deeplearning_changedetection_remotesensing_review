@@ -10,9 +10,6 @@ DOI: xxxx/ACCESS.2020.xxxx
 vol. xx, pp. xxx-xxx, July 2020.
 ```
 
-![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/fig-1.png)
-![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/fig-2.png)
-
 
 ![reviewDCR](/images/fig-1.png)
 ![reviewDCR](/images/fig-2.png)
@@ -48,14 +45,6 @@ vol. xx, pp. xxx-xxx, July 2020.
 
 <h2 id="2">2. FULLY UNSUPERVISED LEARNING BASED-METHODS</h2>
 
-* [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
-
-* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
-
 
 <h2 id="2">3. DEEP TRANSFER LEARNING BASED-METHODS </h2>
 
-
-* [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
-
-* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]

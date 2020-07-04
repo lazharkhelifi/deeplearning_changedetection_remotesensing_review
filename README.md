@@ -30,22 +30,36 @@ python join_dsets.py
 ### Run code
 Go to algorithms folder and run
 ```
-# Training from scratch
-python <algorithm>.py --dataset IP 
-# Example:
-python svm.py --dataset IP --tr_percent 0.15
 
-# Fine-tuning (not recommended) <DENSENET121, MOBILENET, RESNET50, VGG16, VGG19>:
-python pretrained_cnn.py --dataset IP --arch <architecture>
-# Example:
-python pretrained_cnn.py --dataset IP --arch VGG16
 
-# Transfer learning <CNN1D, CNN2D, CNN2D40bands, CNN3D>, two steps:
-python transfer_learning.py --dataset1 IP --dataset2 SV --arch <algorithm> --search_base_model
-python transfer_learning.py --dataset1 IP --dataset2 SV --tr_samples 2 --use_val --arch <algorithm> --use_transfer_learning
-# Example:
-python transfer_learning.py --dataset1 IP --dataset2 SV --arch CNN2D40bands --search_base_model
-python transfer_learning.py --dataset1 IP --dataset2 SV --tr_samples 2 --use_val --arch CNN2D40bands --use_transfer_learning
+<h2 id="1">1.Bounding box supervision</h2>
+
+* [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
+
+* [Learning to Segment Every Thing](https://arxiv.org/abs/1711.10370), CVPR 2018
+
+	:Learning weight transfer from well-annotated subset, transfer class-specific weights(output layers) from detection and classification branch, based on Mask-RCNN
+
+* [Pseudo Mask Augmented Object Detection](https://arxiv.org/abs/1803.05858), CVPR 2018
+
+	:State-of-art weakly supervised instance segmentation with bounding box annotation. EM optimizes pseudo mask and segmentation parameter like Boxsup. Graphcut on superpixel is employed to refine pseudo mask. 
+
+* [Simple Does It: Weakly Supervised Instance and Semantic Segmentation](https://arxiv.org/abs/1603.07485), CVPR 2017 \[[web](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/weakly-supervised-learning/simple-does-it-weakly-supervised-instance-and-semantic-segmentation/)\] \[[ref-code](https://github.com/philferriere/tfwss)\]\[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Khoreva_Simple_Does_It_2017_CVPR_supplemental.pdf)\]
+
+	:Grabcut+(HED bounday) and MCG , train foreground segmentation network directly with generated mask semantic segmentaion, sensitive to env(quality) of training images. 
+
+* [Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation](https://arxiv.org/abs/1502.02734), ICCV 2015
+
+	:Based on CRF refine, EM seems not work
+
+* [BoxSup: Exploiting Bounding Boxes to Supervise Convolutional Networks for Semantic Segmentation](https://arxiv.org/abs/1503.01640), ICCV 2015
+
+	:Iteratively update parameters and region proposal labels, proposals are selected by network output masks
+
+* [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
+
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
+
 ```
 
 #### Other parameters

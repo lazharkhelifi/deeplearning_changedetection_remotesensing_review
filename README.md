@@ -1,13 +1,13 @@
 ## Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and  Meta-Analysis
 ![](https://img.shields.io/github/stars/mhaut/hyperspectral_deeplearning_review.svg) ![](https://img.shields.io/github/forks/mhaut/hyperspectral_deeplearning_review.svg) ![](https://img.shields.io/github/issues/mhaut/hyperspectral_deeplearning_review.svg)  
-The Code for "Deep Learning Classifiers for Hyperspectral Imaging: A Review".  
-[https://www.sciencedirect.com/science/article/pii/S0924271619302187]
+The references and materials for "Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and  Meta-Analysis".  
+[https://arxiv.org/abs/2006.05612]
 ```
-M. E. Paoletti, J. M. Haut, J. Plaza and A. Plaza.
-Deep Learning Classifiers for Hyperspectral Imaging: A Review
-International Society for Photogrammetry and Remote Sensing
-DOI: 10.1016/j.isprsjprs.2019.09.006
-vol. 158, pp. 279-317, December 2019.
+L. Khelifi and M. Mignotte.
+Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and  Meta-Analysis
+IEEE Access
+DOI: xxxx/ACCESS.2020.xxxx
+vol. xx, pp. xxx-xxx, July 2020.
 ```
 
 ![reviewHSI](https://github.com/mhaut/hyperspectral_deeplearning_review/blob/master/images/paviaclasf.png)

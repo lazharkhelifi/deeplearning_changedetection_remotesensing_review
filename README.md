@@ -10,7 +10,8 @@ DOI: xxxx/ACCESS.2020.xxxx
 vol. xx, pp. xxx-xxx, July 2020.
 ```
 
-![reviewHSI](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/fig1.eps)
+![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/Fig-1.png)
+![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/Fig-2.png)
 
 ### Example of use
 ```

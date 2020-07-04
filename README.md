@@ -16,23 +16,10 @@ vol. xx, pp. xxx-xxx, July 2020.
 
 ![reviewDCR](/images/fig-1.png)
 ![reviewDCR](/images/fig-2.png)
-### Example of use
-```
-# Without datasets
-git clone https://github.com/mhaut/hyperspectral_deeplearning_review/
-
-# With datasets
-git clone --recursive https://github.com/mhaut/hyperspectral_deeplearning_review/
-cd HSI-datasets
-python join_dsets.py
-```
-
-### Run code
-Go to algorithms folder and run
 
 
+<h2 id="1">1. FULLY SUPERVISED LEARNING BASED-METHODS</h2>
 
-<h2 id="1">1.Bounding box supervision</h2>
 
 * [Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/1904.11693), CVPR 2019 
 
@@ -60,22 +47,16 @@ Go to algorithms folder and run
 
 * [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
+<h2 id="2">2. FULLY UNSUPERVISED LEARNING BASED-METHODS</h2>
+
+* [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
+
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
 
-#### Other parameters
-Dimensionality reduction **- - components** [number]
-```
-python <algorithm>.py --dataset IP --components 40
-```
-You can change the proposed parameters  **- - set_parameters** [parameters]
-```
-python svm.py --dataset IP --set_parameters --C 2 --g 0.01
-```
-You can use validation set  **- - use_val** by default is 10%, you can change it **- -use_val - -val_percent** [percent]
-```
-python cnn1d.py --dataset IP --use_val --val_percent 0.10
-```
-Example:
-```
-python cnn1d.py --dataset IP --components 40  --set_parameters --epochs 100 --batch_size 32--use_val --val_percent 0.10
-```
+<h2 id="2">3. DEEP TRANSFER LEARNING BASED-METHODS </h2>
+
+
+* [Deepcut: Object segmentation from bounding box annotations using convolutional neural networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), TMI 2017
+
+* [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]

@@ -1,5 +1,5 @@
 ## Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and  Meta-Analysis
-![](https://img.shields.io/github/stars/mhaut/hyperspectral_deeplearning_review.svg) ![](https://img.shields.io/github/forks/mhaut/hyperspectral_deeplearning_review.svg) ![](https://img.shields.io/github/issues/mhaut/hyperspectral_deeplearning_review.svg)  
+  
 The references and materials for "Deep Learning for Change Detection in Remote Sensing Images: Comprehensive Review and  Meta-Analysis".  
 [https://arxiv.org/abs/2006.05612]
 ```

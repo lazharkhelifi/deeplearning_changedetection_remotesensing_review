@@ -29,7 +29,7 @@ python join_dsets.py
 
 ### Run code
 Go to algorithms folder and run
-```
+
 
 
 <h2 id="1">1.Bounding box supervision</h2>
@@ -60,7 +60,7 @@ Go to algorithms folder and run
 
 * [Adversarial Learning for Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/1802.07934), BMVC 2018, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
 
-```
+
 
 #### Other parameters
 Dimensionality reduction **- - components** [number]

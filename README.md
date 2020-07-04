@@ -10,7 +10,7 @@ DOI: xxxx/ACCESS.2020.xxxx
 vol. xx, pp. xxx-xxx, July 2020.
 ```
 
-![reviewHSI](https://github.com/mhaut/hyperspectral_deeplearning_review/blob/master/images/paviaclasf.png)
+![reviewHSI](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/fig1.eps)
 
 ### Example of use
 ```

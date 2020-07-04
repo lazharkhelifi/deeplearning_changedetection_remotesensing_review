@@ -13,6 +13,9 @@ vol. xx, pp. xxx-xxx, July 2020.
 ![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/Fig-1.png)
 ![reviewDCR](lazharkhelifi/deeplearning_changedetection_remotesensing_review/images/Fig-2.png)
 
+
+![reviewDCR](/images/Fig-1.png)
+![reviewDCR](/images/Fig-2.png)
 ### Example of use
 ```
 # Without datasets

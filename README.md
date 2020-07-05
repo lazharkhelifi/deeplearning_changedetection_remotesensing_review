@@ -26,7 +26,7 @@ vol. xx, pp. xxx-xxx, July 2020.
 * [GETNET: A General End-to-End 2-D CNN Framework for Hyperspectral Image Change Detection](https://ieeexplore.ieee.org/document/8418840), IEEE Transactions on Geoscience and Remote Sensing
 
 * [Dual-Dense Convolution Network for Change Detection of High-Resolution Panchromatic Imagery](https://www.mdpi.com/2076-3417/8/10/1785), Applied Sciences-Basel
-
+\[[code](/codes/Dual-Dense_Convolution_Network_for_Change_Detection_of_High-Resolution_Panchromatic_ImageryTrain_DualDenseCN/)]
 
 * [Detecting Large-Scale Urban Land Cover Changes from Very High Resolution Remote Sensing Images Using CNN-Based Classification ](https://www.mdpi.com/2220-9964/8/4/189), ISPRS International Journal of GeoInformation
 
@@ -80,7 +80,7 @@ Remote Sensing
 * [Dual learning-based siamese framework for change detection using bi-temporal vhr optical remote sensing images](https://www.mdpi.com/2072-4292/11/11/1292), Remote Sensing
 
 
-* [Transferred deep learning for sea ice change detection from synthetic-aperture radar images](https://ieeexplore.ieee.org/document/8684298), IEEE Geoscience and Remote Sensing Letters
+* [Transferred deep learning for sea ice change detection from synthetic-aperture radar images](https://ieeexplore.ieee.org/document/8684298), IEEE Geoscience and Remote Sensing Letters \[[code](https://github.com/summitgao/SAR-Change-Detection-MLFN]
 
 * [Transferred deep learning-based change detection in remote sensing images](https://ieeexplore.ieee.org/document/8703425), IEEE Transactions on Geoscience and Remote Sensing
 

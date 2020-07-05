@@ -17,7 +17,7 @@ vol. xx, pp. xxx-xxx, July 2020.
 
 <h2 id="1">1. FULLY SUPERVISED LEARNING BASED-METHODS</h2>
 
-* [Newly built construction detection in sar images using deep learning](https://arxiv.org/abs/1904.11693), Remote Sensing
+* [Newly built construction detection in sar images using deep learning](https://www.mdpi.com/2072-4292/11/12/1444), Remote Sensing
 
 * [Forest Damage Assessment Using Deep Learning on High Resolution Remote Sensing Data](https://arxiv.org/abs/1711.10370), Remote Sensing
 

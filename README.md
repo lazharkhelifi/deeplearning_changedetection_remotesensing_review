@@ -22,6 +22,8 @@ vol. xx, pp. xxx-xxx, July 2020.
 * [Forest Damage Assessment Using Deep Learning on High Resolution Remote Sensing Data](https://www.mdpi.com/2072-4292/11/17/1976), Remote Sensing
 
 * [End-to-End Change Detection for High Resolution Satellite Images Using Improved UNet plus](https://www.mdpi.com/2072-4292/11/11/1382), Remote Sensing
+\[[code](https://github.com/daifeng2016/End-to-end-CD-for-VHR-satellite-image)\]
+
 
 * [GETNET: A General End-to-End 2-D CNN Framework for Hyperspectral Image Change Detection](https://ieeexplore.ieee.org/document/8418840), IEEE Transactions on Geoscience and Remote Sensing
 
@@ -32,8 +34,7 @@ vol. xx, pp. xxx-xxx, July 2020.
 
 * [Multitask learning for large-scale semantic change detection](https://www.sciencedirect.com/science/article/pii/S1077314219300992), Computer Vision and Image Understanding
 
-* [The Spectral-Spatial Joint Learning for Change Detection in Multispectral Imagery](https://www.mdpi.com/2072-4292/11/3/240), Remote Sensing, \[[code](https://github.com/hfslyc/AdvSemiSeg)\]
-
+* [The Spectral-Spatial Joint Learning for Change Detection in Multispectral Imagery](https://www.mdpi.com/2072-4292/11/3/240), Remote Sensing
 * [Change detection between multimodal remote sensing data using siamese CNN](https://arxiv.org/abs/1807.09562), Arxiv
 
 * [Sar image change detection based on deep denoising and cnn](https://ieeexplore.ieee.org/document/8768470), IET Image Processing

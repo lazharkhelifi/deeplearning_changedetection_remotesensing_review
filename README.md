@@ -45,6 +45,42 @@ vol. xx, pp. xxx-xxx, July 2020.
 
 <h2 id="2">2. FULLY UNSUPERVISED LEARNING BASED-METHODS</h2>
 
+* [Feature-level change detection using deep representation and feature change analysis for multispectral imagery](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Geoscience and Remote Sensing Letters
+
+* [Deep learning and mapping based ternary change detection for information unbalanced images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Pattern Recognition
+
+* [Change detection in sar images based on deep semi-nmf and svd networks](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Remote Sensing
+
+* [Feature learning and change feature classification based on deep learning for ternary change detection in sar images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), ISPRS Journal of Photogrammetry and Remote Sensing
+
+* [Deep learning and superpixel feature extraction based on contractive autoencoder for change detection in sar images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Transactions on Industrial Informatics
+
+* [A generative discriminatory classified network for change detection in multispectral imagery](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Journal of Selected Topics in Applied Earth Observations and
+Remote Sensing
+
+* [Saliency-guided deep neural networks for sar image change detection](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), EEE Transactions on Geo-science and Remote Sensing
+
+* [Unsupervised deep noise modeling for hyperspectral image change detection](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Remote Sensing
+
+* [Automatic building change image quality assessment in high resolution remote sensing based on deep learning](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Journal of Visual Communication and Image Representation
+
+
 
 <h2 id="2">3. DEEP TRANSFER LEARNING BASED-METHODS </h2>
+
+
+* [Change detection based on deep features and low rank](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Geoscience and Remote Sensing Letters
+
+
+* [Sample selection based change detection with dilated network learning in remote sensing images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Sensing and Imaging
+
+
+* [Triplet-based semantic relation learning for aerial remote sensing image change detection](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Geoscience and Remote Sensing Letters
+
+* [Dual learning-based siamese framework for change detection using bi-temporal vhr optical remote sensing images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), Remote Sensing
+
+
+* [Transferred deep learning for sea ice change detection from synthetic-aperture radar images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Geoscience and Remote Sensing Letters
+
+* [Transferred deep learning-based change detection in remote sensing images](https://pdfs.semanticscholar.org/9732/f55c55512309e24a88ae4f0728cc763b626f.pdf), IEEE Transactions on Geoscience and Remote Sensing
 

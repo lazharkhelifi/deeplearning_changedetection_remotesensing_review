@@ -80,7 +80,7 @@ Remote Sensing
 * [Dual learning-based siamese framework for change detection using bi-temporal vhr optical remote sensing images](https://www.mdpi.com/2072-4292/11/11/1292), Remote Sensing
 
 
-* [Transferred deep learning for sea ice change detection from synthetic-aperture radar images](https://ieeexplore.ieee.org/document/8684298), IEEE Geoscience and Remote Sensing Letters \[[code](https://github.com/summitgao/SAR-Change-Detection-MLFN]
+* [Transferred deep learning for sea ice change detection from synthetic-aperture radar images](https://ieeexplore.ieee.org/document/8684298), IEEE Geoscience and Remote Sensing Letters \[[code](https://github.com/summitgao/SAR-Change-Detection-MLFN)]
 
 * [Transferred deep learning-based change detection in remote sensing images](https://ieeexplore.ieee.org/document/8703425), IEEE Transactions on Geoscience and Remote Sensing
 
